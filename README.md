@@ -1,7 +1,7 @@
 # datasets
 데이터셋 모음입니다.
 
-- [펭귄 데이터]([https://weniv.link/FvCFXx](https://raw.githubusercontent.com/moya0307/datasets/main/penguins.csv)),
+- [펭귄 데이터]([https://weniv.link/FvCFXx](https://raw.githubusercontent.com/moya0307/datasets/main/penguins.csv)
 ```
 [https://weniv.link/FvCFXx](https://raw.githubusercontent.com/moya0307/datasets/main/penguins.csv)
 ```
